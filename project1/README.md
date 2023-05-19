@@ -40,7 +40,7 @@
 ### Краткая информация о данных
 В датасете находятся резюме соискателей с сервиса HeadHunter.
 Так же для проеобразования данных нам понадобится датасет курсов различных валют и акций за указанные периоды времени.
-Исходные данные находятся по [ссылке](https://drive.google.com/drive/folders/1RN2xlHrunt_hxUWld9rr4Zs6vGsn0uHL?usp=share_link){:target="_blank"}
+Исходные данные находятся по [ссылке](https://drive.google.com/drive/folders/1RN2xlHrunt_hxUWld9rr4Zs6vGsn0uHL?usp=share_link)
   
 :arrow_up:[к оглавлению](#Оглавление)
 
@@ -55,11 +55,11 @@
 
 
 ### Результаты:  
-* [Ноутбук-решение](https://github.com/HelenaPanda/Projects_DS/blob/main/project1/Project-1.%20%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD1.ipynb){:target="_blank"}
-* Графики выполненные, в процессе анализа, находятся по [ссылке](https://drive.google.com/drive/folders/118-3be2Qntc73VMZPBbe-e7v5kkHrhhm?usp=share_link){:target="_blank"}
+* [Ноутбук-решение](https://github.com/HelenaPanda/Projects_DS/blob/main/project1/Project-1.%20%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD1.ipynb)
+* Графики выполненные, в процессе анализа, находятся по [ссылке](https://drive.google.com/drive/folders/118-3be2Qntc73VMZPBbe-e7v5kkHrhhm?usp=share_link)
 
 :arrow_up:[к оглавлению](#Оглавление)
 
 ___
-[Использованные инструменты и библиотеки](https://github.com/HelenaPanda/Projects_DS/blob/main/project1/requirements.txt){:target="_blank"}
+[Использованные инструменты и библиотеки](https://github.com/HelenaPanda/Projects_DS/blob/main/project1/requirements.txt)
 
