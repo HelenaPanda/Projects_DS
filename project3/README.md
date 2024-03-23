@@ -53,6 +53,6 @@ EDA анализ данных
 
 :arrow_up:[к оглавлению](#Оглавление)
 
-___
+
 [Использованные инструменты и библиотеки](https://github.com/HelenaPanda/Projects_DS/blob/main/project1/requirements.txt)
 
