@@ -49,10 +49,10 @@ EDA анализ данных
 
 
 ### Результаты:  
-* [Ноутбук-решение](https://github.com/HelenaPanda/Projects_DS/blob/main/project2/Project_2_%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
+* [Ноутбук-решение](https://github.com/HelenaPanda/Projects_DS/blob/main/project3/Project3_S.ipynb)
 
 :arrow_up:[к оглавлению](#Оглавление)
 
 
-[Использованные инструменты и библиотеки](https://github.com/HelenaPanda/Projects_DS/blob/main/project1/requirements.txt)
+[Использованные инструменты и библиотеки](https://github.com/HelenaPanda/Projects_DS/blob/main/project3/requirements.txt)
 
