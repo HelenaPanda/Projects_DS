@@ -7,4 +7,5 @@ Homework
 * [Проект 3. Прогнозирование рейтинга отелей на Booking](https://github.com/HelenaPanda/Projects_DS/tree/main/project3)
 
 Стажировки
-* [Проект 0. Игра: Угадай число]
+* [Парсинг клинических испытаний и рекомендаций](https://github.com/HelenaPanda/Projects_DS/tree/main/clinical_trials_parser)
+* [Парсинг данных о мероприятиях](https://github.com/HelenaPanda/Projects_DS/tree/main/events)
